@@ -114,7 +114,7 @@
       <example value="false" />
       <name value="HealthcareService" />
       <sourceReference>
-        <reference value="StructureDefinition/vhdir-healthcareservice" />
+        <reference value="StructureDefinition/vhdir-healthcareService" />
       </sourceReference>
     </resource>
     <resource>

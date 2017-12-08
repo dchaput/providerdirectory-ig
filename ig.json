@@ -128,10 +128,10 @@
           "defns":"StructureDefinition-vhdir-endpoint-definitions.html",
           "source":"vhdir-endpoint.structuredefinition.xml"
       },
-      "StructureDefinition/vhdir-healthcareservice":{
-        "base":"StructureDefinition-vhdir-healthcareservice.html",
-        "defns":"StructureDefinition-vhdir-healthcareservice-definitions.html",
-        "source":"vhdir-healthcareservice.structuredefinition.xml"
+      "StructureDefinition/vhdir-healthcareService":{
+        "base":"StructureDefinition-vhdir-healthcareService.html",
+        "defns":"StructureDefinition-vhdir-healthcareService-definitions.html",
+        "source":"vhdir-healthcareService.structuredefinition.xml"
       },
       "StructureDefinition/vhdir-organizationRole":{
         "base":"StructureDefinition-vhdir-organizationRole.html",
